@@ -1,0 +1,16 @@
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC3\BEC3\bin\Debug\BEC3.exe
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC3\BEC3\bin\Debug\BEC3.pdb
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC3\BEC3\bin\Debug\BAL.dll
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC3\BEC3\bin\Debug\BEL.dll
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC3\BEC3\bin\Debug\BAL.pdb
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC3\BEC3\bin\Debug\BEL.pdb
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC3\BEC3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC3\BEC3\obj\Debug\BEC3.Properties.Resources.resources
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC3\BEC3\obj\Debug\BEC3.csproj.GenerateResource.Cache
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC3\BEC3\obj\Debug\BEC3.exe
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC3\BEC3\obj\Debug\BEC3.pdb
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC3\BEC3\obj\Debug\BEC3.Form1.resources
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC3\BEC3\bin\Debug\DAL.dll
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC3\BEC3\bin\Debug\DAL.pdb
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC\BEC3\obj\Debug\BEC3.exe
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC\BEC3\obj\Debug\BEC3.pdb

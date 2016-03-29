@@ -1,0 +1,26 @@
+INPUT ON
+SYSVAR(48) = 0
+SYSVAR(35)=0
+SETUP "Printing,Media,Media Type,Media With Gaps"
+SETUP "Printing,Media,Start Adjust,-158"
+SETUP "Printing,Media,Print Area,Media Width,816"
+SETUP "Printing,Print Quality,Darkness,80"
+OPTIMIZE "BATCH" ON
+
+FT "Univers Condensed Bold",8,0,99
+qXPos% = 30
+
+PP16+qXPos%,50:BARSET "CODE128",2,1,2,54:PB "[Barcode1]"
+PP72+qXPos%,20:PT "[Barcode1]"
+qXPos% = 280
+
+PP16+qXPos%,50:BARSET "CODE128",2,1,2,54:PB "[Barcode2]"
+PP72+qXPos%,20:PT "[Barcode2]"
+
+qXPos% = 550
+
+
+PP16+qXPos%,50:BARSET "CODE128",2,1,2,54:PB "[Barcode3]"
+PP72+qXPos%,20:PT "[Barcode3]"
+
+PF1

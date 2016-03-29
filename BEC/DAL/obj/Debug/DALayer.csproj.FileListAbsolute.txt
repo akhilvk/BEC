@@ -1,0 +1,14 @@
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC3\DAL\bin\Debug\DAL.dll
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC3\DAL\bin\Debug\DAL.pdb
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC3\DAL\bin\Debug\BEL.dll
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC3\DAL\bin\Debug\BEL.pdb
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC3\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC3\DAL\obj\Debug\DAL.dll
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC3\DAL\obj\Debug\DAL.pdb
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC\DAL\obj\Debug\DAL.dll
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC\DAL\obj\Debug\DAL.pdb
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC\DAL\bin\Debug\DAL.dll
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC\DAL\bin\Debug\DAL.pdb
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC\DAL\bin\Debug\BEL.dll
+C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC\DAL\bin\Debug\BEL.pdb
