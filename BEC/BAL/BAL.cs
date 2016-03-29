@@ -5,6 +5,7 @@ using System.Text;
 using BELayer;
 using DALayer;
 using System.Data.SqlClient;
+using System.Data;
 
 namespace BALayer
 {
@@ -12,6 +13,9 @@ namespace BALayer
     {
         BEL beobj = new BEL();
         DAL daobk = new DAL();
+
+       
+
 
         public SqlDataReader custSelect()
         {

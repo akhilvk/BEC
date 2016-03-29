@@ -42,6 +42,8 @@
             this.ReportsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.recieptReportToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.utilitiesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.backupToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ToolTip = new System.Windows.Forms.ToolTip(this.components);
             this.c1ThemeController1 = new C1.Win.C1Themes.C1ThemeController();
             this.c1StatusBar1 = new C1.Win.C1Ribbon.C1StatusBar();
@@ -49,8 +51,7 @@
             this.ribbonSeparator1 = new C1.Win.C1Ribbon.RibbonSeparator();
             this.ribbonLabel2 = new C1.Win.C1Ribbon.RibbonLabel();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.utilitiesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.backupToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.rackMasterToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.MenuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.c1ThemeController1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.c1StatusBar1)).BeginInit();
@@ -99,6 +100,7 @@
             this.itemMasterToolStripMenuItem,
             this.customerMasterToolStripMenuItem,
             this.supToolStripMenuItem,
+            this.rackMasterToolStripMenuItem,
             this.userMasterToolStripMenuItem});
             this.mastersToolStripMenuItem.Name = "mastersToolStripMenuItem";
             this.mastersToolStripMenuItem.Size = new System.Drawing.Size(60, 19);
@@ -155,6 +157,22 @@
             this.toolStripMenuItem1.Text = "Despatch Report";
             this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
             // 
+            // utilitiesToolStripMenuItem
+            // 
+            this.utilitiesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.backupToolStripMenuItem});
+            this.utilitiesToolStripMenuItem.Name = "utilitiesToolStripMenuItem";
+            this.utilitiesToolStripMenuItem.Size = new System.Drawing.Size(58, 19);
+            this.utilitiesToolStripMenuItem.Text = "Utilities";
+            this.utilitiesToolStripMenuItem.Visible = false;
+            // 
+            // backupToolStripMenuItem
+            // 
+            this.backupToolStripMenuItem.Name = "backupToolStripMenuItem";
+            this.backupToolStripMenuItem.Size = new System.Drawing.Size(113, 22);
+            this.backupToolStripMenuItem.Text = "Backup";
+            this.backupToolStripMenuItem.Click += new System.EventHandler(this.backupToolStripMenuItem_Click);
+            // 
             // c1StatusBar1
             // 
             this.c1StatusBar1.Location = new System.Drawing.Point(0, 491);
@@ -184,21 +202,12 @@
             // 
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
-            // utilitiesToolStripMenuItem
+            // rackMasterToolStripMenuItem
             // 
-            this.utilitiesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.backupToolStripMenuItem});
-            this.utilitiesToolStripMenuItem.Name = "utilitiesToolStripMenuItem";
-            this.utilitiesToolStripMenuItem.Size = new System.Drawing.Size(58, 19);
-            this.utilitiesToolStripMenuItem.Text = "Utilities";
-            this.utilitiesToolStripMenuItem.Visible = false;
-            // 
-            // backupToolStripMenuItem
-            // 
-            this.backupToolStripMenuItem.Name = "backupToolStripMenuItem";
-            this.backupToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.backupToolStripMenuItem.Text = "Backup";
-            this.backupToolStripMenuItem.Click += new System.EventHandler(this.backupToolStripMenuItem_Click);
+            this.rackMasterToolStripMenuItem.Name = "rackMasterToolStripMenuItem";
+            this.rackMasterToolStripMenuItem.Size = new System.Drawing.Size(165, 22);
+            this.rackMasterToolStripMenuItem.Text = "Rack Master";
+            this.rackMasterToolStripMenuItem.Click += new System.EventHandler(this.rackMasterToolStripMenuItem_Click);
             // 
             // FrmMain
             // 
@@ -248,6 +257,7 @@
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem utilitiesToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem backupToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem rackMasterToolStripMenuItem;
 
     }
 }

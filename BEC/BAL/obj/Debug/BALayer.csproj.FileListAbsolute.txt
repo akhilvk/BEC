@@ -16,3 +16,12 @@ C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC\BAL\bin\Debug\BEL.dll
 C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC\BAL\bin\Debug\DAL.dll
 C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC\BAL\bin\Debug\DAL.pdb
 C:\Users\sa\Documents\Visual Studio 2008\Projects\BEC\BAL\bin\Debug\BEL.pdb
+C:\Users\VIJITH\Documents\BEC\BEC\BAL\bin\Debug\BAL.dll
+C:\Users\VIJITH\Documents\BEC\BEC\BAL\bin\Debug\BAL.pdb
+C:\Users\VIJITH\Documents\BEC\BEC\BAL\bin\Debug\BEL.dll
+C:\Users\VIJITH\Documents\BEC\BEC\BAL\bin\Debug\DAL.dll
+C:\Users\VIJITH\Documents\BEC\BEC\BAL\bin\Debug\DAL.pdb
+C:\Users\VIJITH\Documents\BEC\BEC\BAL\bin\Debug\BEL.pdb
+C:\Users\VIJITH\Documents\BEC\BEC\BAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VIJITH\Documents\BEC\BEC\BAL\obj\Debug\BAL.dll
+C:\Users\VIJITH\Documents\BEC\BEC\BAL\obj\Debug\BAL.pdb

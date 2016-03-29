@@ -266,6 +266,7 @@ namespace DALayer
           
           #endregion ItemMaster
       }
+
       public class DALSupp
       {
           #region SuppMaster

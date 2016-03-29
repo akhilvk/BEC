@@ -103,5 +103,13 @@ namespace BEC3
 
         }
 
+        private void rackMasterToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var myform = new FrmRackMaster ();
+            myform.MdiParent = this;
+            myform.Show();
+
+        }
+
     }
 }
