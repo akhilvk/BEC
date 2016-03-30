@@ -53,7 +53,20 @@ namespace BEC3
 
         private void c1Button1_Click(object sender, EventArgs e)
         {
-            
+            errorProvider1.Dispose();
+            if (txtrackNo.Text == "")
+            {
+                errorProvider1.SetError(txtrackNo, "Enter Rack No");
+                txtrackNo.Focus();
+                return;
+            }
+            objbll.RackNo  = txtrackNo.Text.Trim ();
+            if (objbll.SavetoDb(3))
+            {
+                MessageBox.Show("Data Saved Successfully");
+            }
+            GridFill();
+            txtrackNo.Text = "";
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -63,7 +76,8 @@ namespace BEC3
 
         private void c1Button4_Click(object sender, EventArgs e)
         {
-          
+            GridFill();
+            txtrackNo.Text = "";
         }
 
         private void c1Button3_Click(object sender, EventArgs e)

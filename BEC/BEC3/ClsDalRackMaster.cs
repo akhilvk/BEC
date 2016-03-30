@@ -25,6 +25,11 @@ namespace BEC3
         //}
         public DataTable gridfill(ClsBllRack  objbll, int flag)
         {
+            cmd.Connection = con;
+            if (con.State == ConnectionState.Closed)
+            {
+                con.Open();
+            }
             cmd = new SqlCommand("SP1");
             cmd.CommandType = CommandType.StoredProcedure;
             DataTable dt = new DataTable();
@@ -34,8 +39,29 @@ namespace BEC3
             adp.Fill(dt);
             con.Close();
             return dt;
-
-
+        }
+        public bool  SavetoDb(ClsBllRack objbll, int flag)
+        {
+            cmd.Connection = con;
+            if (con.State == ConnectionState.Closed)
+            {
+                con.Open();
+            }
+            int result = 0;
+            cmd = new SqlCommand("SP1");
+            cmd.CommandType = CommandType.StoredProcedure;
+            DataTable dt = new DataTable();
+            cmd.Connection = con;
+            cmd.Parameters.Add("@flag", SqlDbType.BigInt).Value = flag;
+             cmd.Parameters.Add("@IsDelete", SqlDbType.BigInt).Value = 0;
+             cmd.Parameters.Add("@RackNo", SqlDbType.VarChar).Value = objbll.RackNo ;
+            result = cmd.ExecuteNonQuery();
+            if (result > 0)
+            {
+                return true;
+            }
+            else
+                return false;
         }
     }
 }

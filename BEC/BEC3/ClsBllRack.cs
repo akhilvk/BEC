@@ -16,5 +16,9 @@ namespace BEC3
             {
                 return objdal.gridfill(this, flag);
             }
+            public bool SavetoDb(int flag)
+            {
+                return objdal.SavetoDb(this, flag);
+            }
     }
 }
