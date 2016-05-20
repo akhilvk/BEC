@@ -1,0 +1,14 @@
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\bin\Release\BEC.exe
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\bin\Release\BEC.pdb
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\bin\Release\BEC.xml
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\bin\Release\System.Data.SqlClient.dll
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Release\ResolveAssemblyReference.cache
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Release\BEC.frmdispatch.resources
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Release\BEC.frmmain.resources
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Release\BEC.frmreceipt.resources
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Release\BEC.Resources.resources
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Release\BEC Scan.vbproj.GenerateResource.Cache
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Release\BEC.exe
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Release\BEC.xml
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Release\BEC.pdb

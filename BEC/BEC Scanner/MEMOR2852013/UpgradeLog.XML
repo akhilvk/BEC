@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Eastern">
+</Property><Property Name="Solution File" Value="F:\Adimali.net\Eastern.sln">
+</Property><Property Name="Date" Value="Tuesday, July 17, 2012">
+</Property><Property Name="Time" Value="11:11 AM">
+</Property></Properties><Event ErrorLevel="0" Project="Eastern" Source="Eastern\Eastern.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Eastern" Source="Eastern\Eastern.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Eastern.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Eastern.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Eastern" Source="Eastern\Form1.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Eastern" Source="Eastern\Form1.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Eastern" Source="Eastern\Form3.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Eastern" Source="Eastern\Form3.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Eastern" Source="Eastern\frmdispatch.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Eastern" Source="Eastern\frmdispatch.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Eastern" Source="Eastern\frmexport.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Eastern" Source="Eastern\frmexport.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Eastern" Source="Eastern\frmexprejection.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Eastern" Source="Eastern\frmexprejection.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Eastern" Source="Eastern\frminv.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Eastern" Source="Eastern\frminv.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Eastern" Source="Eastern\frmInvoice.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Eastern" Source="Eastern\frmInvoice.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Eastern" Source="Eastern\frmItemStorage.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Eastern" Source="Eastern\frmItemStorage.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Eastern" Source="Eastern\frmMain.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Eastern" Source="Eastern\frmMain.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Eastern" Source="Eastern\frmPalletScan.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Eastern" Source="Eastern\frmPalletScan.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Eastern" Source="Eastern\frmPallettrans.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Eastern" Source="Eastern\frmPallettrans.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Eastern" Source="Eastern\frmreceipt.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Eastern" Source="Eastern\frmreceipt.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Eastern" Source="Eastern\frmrescaning.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Eastern" Source="Eastern\frmrescaning.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Eastern" Source="Eastern\frmrework.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Eastern" Source="Eastern\frmrework.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Eastern" Source="Eastern\frmstockreturn.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Eastern" Source="Eastern\frmstockreturn.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Eastern" Source="Eastern\My Project\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Eastern" Source="Eastern\My Project\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Eastern" Source="Eastern\Eastern.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Eastern" Source="Eastern\Eastern.vbproj" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event></UpgradeLog>

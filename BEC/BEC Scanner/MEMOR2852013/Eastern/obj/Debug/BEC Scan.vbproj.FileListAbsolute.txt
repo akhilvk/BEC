@@ -1,0 +1,43 @@
+E:\Projects\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\VKC.frmdispatch.resources
+E:\Projects\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\VKC.frmmain.resources
+E:\Projects\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\VKC.frmreceipt.resources
+E:\Projects\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\VKC.Resources.resources
+E:\Projects\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\BEC Scan.vbproj.GenerateResource.Cache
+E:\Projects\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\VKC.exe
+E:\Projects\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\VKC.xml
+E:\Projects\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\VKC.pdb
+E:\Projects\BEC Scanner\MEMOR2852013\Eastern\bin\Debug\VKC.exe
+E:\Projects\BEC Scanner\MEMOR2852013\Eastern\bin\Debug\VKC.pdb
+E:\Projects\BEC Scanner\MEMOR2852013\Eastern\bin\Debug\VKC.xml
+E:\Projects\BEC Scanner\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlClient.dll
+E:\Projects\BEC Scanner\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlClient.dll
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\BEC Scan.vbproj.GenerateResource.Cache
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\bin\Debug\BEC.exe
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\bin\Debug\BEC.pdb
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\bin\Debug\BEC.xml
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\BEC.frmdispatch.resources
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\BEC.frmmain.resources
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\BEC.frmreceipt.resources
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\BEC.Resources.resources
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\BEC.exe
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\BEC.xml
+C:\Users\VIJITH\Documents\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\BEC.pdb
+E:\Projects\BEC\BEC Scanner\MEMOR2852013\Eastern\bin\Debug\BEC.exe
+E:\Projects\BEC\BEC Scanner\MEMOR2852013\Eastern\bin\Debug\BEC.pdb
+E:\Projects\BEC\BEC Scanner\MEMOR2852013\Eastern\bin\Debug\BEC.xml
+E:\Projects\BEC\BEC Scanner\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlClient.dll
+E:\Projects\BEC\BEC Scanner\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+E:\Projects\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\BEC.frmdispatch.resources
+E:\Projects\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\BEC.frmmain.resources
+E:\Projects\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\BEC.FrmPhysicalVer.resources
+E:\Projects\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\BEC.frmreceipt.resources
+E:\Projects\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\BEC.Resources.resources
+E:\Projects\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\BEC Scan.vbproj.GenerateResource.Cache
+E:\Projects\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\BEC.exe
+E:\Projects\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\BEC.xml
+E:\Projects\BEC\BEC Scanner\MEMOR2852013\Eastern\obj\Debug\BEC.pdb

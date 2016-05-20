@@ -1,0 +1,651 @@
+F:\Adimali.net\Eastern\bin\Debug\Eastern.exe
+F:\Adimali.net\Eastern\bin\Debug\Eastern.pdb
+F:\Adimali.net\Eastern\bin\Debug\Eastern.xml
+F:\Adimali.net\Eastern\bin\Debug\System.Data.SqlClient.dll
+F:\Adimali.net\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+F:\Adimali.net\Eastern\obj\Debug\ResolveAssemblyReference.cache
+F:\Adimali.net\Eastern\obj\Debug\Eastern.Form3.resources
+F:\Adimali.net\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+F:\Adimali.net\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+F:\Adimali.net\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+F:\Adimali.net\Eastern\obj\Debug\Eastern.Form1.resources
+F:\Adimali.net\Eastern\obj\Debug\Eastern.frmexport.resources
+F:\Adimali.net\Eastern\obj\Debug\Eastern.frmexprejection.resources
+F:\Adimali.net\Eastern\obj\Debug\Eastern.frminv.resources
+F:\Adimali.net\Eastern\obj\Debug\Eastern.frmmain.resources
+F:\Adimali.net\Eastern\obj\Debug\Eastern.frmdispatch.resources
+F:\Adimali.net\Eastern\obj\Debug\Eastern.frmInvoice.resources
+F:\Adimali.net\Eastern\obj\Debug\Eastern.frmreceipt.resources
+F:\Adimali.net\Eastern\obj\Debug\Eastern.frmrescaning.resources
+F:\Adimali.net\Eastern\obj\Debug\Eastern.frmrework.resources
+F:\Adimali.net\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+F:\Adimali.net\Eastern\obj\Debug\Eastern.Resources.resources
+F:\Adimali.net\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+F:\Adimali.net\Eastern\obj\Debug\Eastern.exe
+F:\Adimali.net\Eastern\obj\Debug\Eastern.xml
+F:\Adimali.net\Eastern\obj\Debug\Eastern.pdb
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\obj\Debug\Eastern.Form3.resources
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\obj\Debug\Eastern.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\obj\Debug\Eastern.frmexport.resources
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\obj\Debug\Eastern.frmexprejection.resources
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\obj\Debug\Eastern.frminv.resources
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\obj\Debug\Eastern.frmmain.resources
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\obj\Debug\Eastern.frmdispatch.resources
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\obj\Debug\Eastern.frmInvoice.resources
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\obj\Debug\Eastern.frmreceipt.resources
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\obj\Debug\Eastern.frmrescaning.resources
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\obj\Debug\Eastern.frmrework.resources
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\obj\Debug\Eastern.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\obj\Debug\Eastern.xml
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\obj\Debug\Eastern.pdb
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\bin\Debug\Eastern.exe
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\bin\Debug\Eastern.pdb
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\bin\Debug\Eastern.xml
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\bin\Debug\System.Data.SqlClient.dll
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+C:\Documents and Settings\Administrator\Desktop\Eastern Latest\ADY\MEMOR\Eastern\obj\Debug\Eastern.exe
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\bin\Debug\Eastern.exe
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\bin\Debug\Eastern.pdb
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\bin\Debug\Eastern.xml
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\bin\Debug\System.Data.SqlClient.dll
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\obj\Debug\ResolveAssemblyReference.cache
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\obj\Debug\Eastern.Form3.resources
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\obj\Debug\Eastern.Form1.resources
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\obj\Debug\Eastern.frmexport.resources
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\obj\Debug\Eastern.frmexprejection.resources
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\obj\Debug\Eastern.frminv.resources
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\obj\Debug\Eastern.frmmain.resources
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\obj\Debug\Eastern.frmdispatch.resources
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\obj\Debug\Eastern.frmInvoice.resources
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\obj\Debug\Eastern.frmreceipt.resources
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\obj\Debug\Eastern.frmrescaning.resources
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\obj\Debug\Eastern.frmrework.resources
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\obj\Debug\Eastern.Resources.resources
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\obj\Debug\Eastern.exe
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\obj\Debug\Eastern.xml
+D:\Windows Applications\Eastern Latest\ADY\THENI MEMOR\Eastern\obj\Debug\Eastern.pdb
+D:\Okkal\MEMOR\Eastern\bin\Debug\Eastern.exe
+D:\Okkal\MEMOR\Eastern\bin\Debug\Eastern.pdb
+D:\Okkal\MEMOR\Eastern\bin\Debug\Eastern.xml
+D:\Okkal\MEMOR\Eastern\bin\Debug\System.Data.SqlClient.dll
+D:\Okkal\MEMOR\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+D:\Okkal\MEMOR\Eastern\obj\Debug\ResolveAssemblyReference.cache
+D:\Okkal\MEMOR\Eastern\obj\Debug\Eastern.Form3.resources
+D:\Okkal\MEMOR\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+D:\Okkal\MEMOR\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+D:\Okkal\MEMOR\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+D:\Okkal\MEMOR\Eastern\obj\Debug\Eastern.Form1.resources
+D:\Okkal\MEMOR\Eastern\obj\Debug\Eastern.frmexport.resources
+D:\Okkal\MEMOR\Eastern\obj\Debug\Eastern.frmexprejection.resources
+D:\Okkal\MEMOR\Eastern\obj\Debug\Eastern.frminv.resources
+D:\Okkal\MEMOR\Eastern\obj\Debug\Eastern.frmmain.resources
+D:\Okkal\MEMOR\Eastern\obj\Debug\Eastern.frmdispatch.resources
+D:\Okkal\MEMOR\Eastern\obj\Debug\Eastern.frmInvoice.resources
+D:\Okkal\MEMOR\Eastern\obj\Debug\Eastern.frmreceipt.resources
+D:\Okkal\MEMOR\Eastern\obj\Debug\Eastern.frmrescaning.resources
+D:\Okkal\MEMOR\Eastern\obj\Debug\Eastern.frmrework.resources
+D:\Okkal\MEMOR\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+D:\Okkal\MEMOR\Eastern\obj\Debug\Eastern.Resources.resources
+D:\Okkal\MEMOR\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+D:\Okkal\MEMOR\Eastern\obj\Debug\Eastern.exe
+D:\Okkal\MEMOR\Eastern\obj\Debug\Eastern.xml
+D:\Okkal\MEMOR\Eastern\obj\Debug\Eastern.pdb
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\bin\Debug\Eastern.exe
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\bin\Debug\Eastern.pdb
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\bin\Debug\Eastern.xml
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\bin\Debug\System.Data.SqlClient.dll
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\obj\Debug\Eastern.Form3.resources
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\obj\Debug\Eastern.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\obj\Debug\Eastern.frmexport.resources
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\obj\Debug\Eastern.frmexprejection.resources
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\obj\Debug\Eastern.frminv.resources
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\obj\Debug\Eastern.frmmain.resources
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\obj\Debug\Eastern.frmdispatch.resources
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\obj\Debug\Eastern.frmInvoice.resources
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\obj\Debug\Eastern.frmreceipt.resources
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\obj\Debug\Eastern.frmrescaning.resources
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\obj\Debug\Eastern.frmrework.resources
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\obj\Debug\Eastern.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\obj\Debug\Eastern.exe
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\obj\Debug\Eastern.xml
+C:\Documents and Settings\Administrator\Desktop\banglore impltn\MEMOR\Eastern\obj\Debug\Eastern.pdb
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\bin\Debug\Eastern.exe
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\bin\Debug\Eastern.pdb
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\bin\Debug\Eastern.xml
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\bin\Debug\System.Data.SqlClient.dll
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\obj\Debug\Eastern.Form3.resources
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\obj\Debug\Eastern.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\obj\Debug\Eastern.frmexport.resources
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\obj\Debug\Eastern.frmexprejection.resources
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\obj\Debug\Eastern.frminv.resources
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\obj\Debug\Eastern.frmmain.resources
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\obj\Debug\Eastern.frmdispatch.resources
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\obj\Debug\Eastern.frmInvoice.resources
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\obj\Debug\Eastern.frmreceipt.resources
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\obj\Debug\Eastern.frmrescaning.resources
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\obj\Debug\Eastern.frmrework.resources
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\obj\Debug\Eastern.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\obj\Debug\Eastern.exe
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\obj\Debug\Eastern.xml
+C:\Documents and Settings\Administrator\Desktop\MEMORtest\Eastern\obj\Debug\Eastern.pdb
+H:\MEMOR2852013\Eastern\bin\Debug\Eastern.exe
+H:\MEMOR2852013\Eastern\bin\Debug\Eastern.pdb
+H:\MEMOR2852013\Eastern\bin\Debug\Eastern.xml
+H:\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlClient.dll
+H:\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+H:\MEMOR2852013\Eastern\obj\Debug\ResolveAssemblyReference.cache
+H:\MEMOR2852013\Eastern\obj\Debug\Eastern.Form3.resources
+H:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+H:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+H:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+H:\MEMOR2852013\Eastern\obj\Debug\Eastern.Form1.resources
+H:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexport.resources
+H:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexprejection.resources
+H:\MEMOR2852013\Eastern\obj\Debug\Eastern.frminv.resources
+H:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmain.resources
+H:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmdispatch.resources
+H:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmInvoice.resources
+H:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmreceipt.resources
+H:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrescaning.resources
+H:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrework.resources
+H:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+H:\MEMOR2852013\Eastern\obj\Debug\Eastern.Resources.resources
+H:\MEMOR2852013\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+H:\MEMOR2852013\Eastern\obj\Debug\Eastern.exe
+H:\MEMOR2852013\Eastern\obj\Debug\Eastern.xml
+H:\MEMOR2852013\Eastern\obj\Debug\Eastern.pdb
+D:\MEMOR2852013\Eastern\bin\Debug\Eastern.exe
+D:\MEMOR2852013\Eastern\bin\Debug\Eastern.pdb
+D:\MEMOR2852013\Eastern\bin\Debug\Eastern.xml
+D:\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlClient.dll
+D:\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+D:\MEMOR2852013\Eastern\obj\Debug\ResolveAssemblyReference.cache
+D:\MEMOR2852013\Eastern\obj\Debug\Eastern.Form3.resources
+D:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+D:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+D:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+D:\MEMOR2852013\Eastern\obj\Debug\Eastern.Form1.resources
+D:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexport.resources
+D:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexprejection.resources
+D:\MEMOR2852013\Eastern\obj\Debug\Eastern.frminv.resources
+D:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmain.resources
+D:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmdispatch.resources
+D:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmInvoice.resources
+D:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmreceipt.resources
+D:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrescaning.resources
+D:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrework.resources
+D:\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+D:\MEMOR2852013\Eastern\obj\Debug\Eastern.Resources.resources
+D:\MEMOR2852013\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+D:\MEMOR2852013\Eastern\obj\Debug\Eastern.exe
+D:\MEMOR2852013\Eastern\obj\Debug\Eastern.xml
+D:\MEMOR2852013\Eastern\obj\Debug\Eastern.pdb
+E:\Rony\MEMOR2852013\Eastern\bin\Debug\Eastern.exe
+E:\Rony\MEMOR2852013\Eastern\bin\Debug\Eastern.pdb
+E:\Rony\MEMOR2852013\Eastern\bin\Debug\Eastern.xml
+E:\Rony\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlClient.dll
+E:\Rony\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+E:\Rony\MEMOR2852013\Eastern\obj\Debug\ResolveAssemblyReference.cache
+E:\Rony\MEMOR2852013\Eastern\obj\Debug\Eastern.Form3.resources
+E:\Rony\MEMOR2852013\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+E:\Rony\MEMOR2852013\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+E:\Rony\MEMOR2852013\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+E:\Rony\MEMOR2852013\Eastern\obj\Debug\Eastern.Form1.resources
+E:\Rony\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexport.resources
+E:\Rony\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexprejection.resources
+E:\Rony\MEMOR2852013\Eastern\obj\Debug\Eastern.frminv.resources
+E:\Rony\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmain.resources
+E:\Rony\MEMOR2852013\Eastern\obj\Debug\Eastern.frmdispatch.resources
+E:\Rony\MEMOR2852013\Eastern\obj\Debug\Eastern.frmInvoice.resources
+E:\Rony\MEMOR2852013\Eastern\obj\Debug\Eastern.frmreceipt.resources
+E:\Rony\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrescaning.resources
+E:\Rony\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrework.resources
+E:\Rony\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+E:\Rony\MEMOR2852013\Eastern\obj\Debug\Eastern.Resources.resources
+E:\Rony\MEMOR2852013\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+E:\Rony\MEMOR2852013\Eastern\obj\Debug\Eastern.exe
+E:\Rony\MEMOR2852013\Eastern\obj\Debug\Eastern.xml
+E:\Rony\MEMOR2852013\Eastern\obj\Debug\Eastern.pdb
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\bin\Debug\Eastern.exe
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\bin\Debug\Eastern.pdb
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\bin\Debug\Eastern.xml
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlClient.dll
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\obj\Debug\ResolveAssemblyReference.cache
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.Form3.resources
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.Form1.resources
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexport.resources
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexprejection.resources
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frminv.resources
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmain.resources
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmdispatch.resources
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmInvoice.resources
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmreceipt.resources
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrescaning.resources
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrework.resources
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.Resources.resources
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.exe
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.xml
+E:\Rony\EasternScanner\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.pdb
+E:\Banglore\MEMOR2852013\Eastern\bin\Debug\Eastern.exe
+E:\Banglore\MEMOR2852013\Eastern\bin\Debug\Eastern.pdb
+E:\Banglore\MEMOR2852013\Eastern\bin\Debug\Eastern.xml
+E:\Banglore\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlClient.dll
+E:\Banglore\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+E:\Banglore\MEMOR2852013\Eastern\obj\Debug\ResolveAssemblyReference.cache
+E:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.Form3.resources
+E:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+E:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+E:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+E:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.Form1.resources
+E:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexport.resources
+E:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexprejection.resources
+E:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frminv.resources
+E:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmain.resources
+E:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmdispatch.resources
+E:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmInvoice.resources
+E:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmreceipt.resources
+E:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrescaning.resources
+E:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrework.resources
+E:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+E:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.Resources.resources
+E:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+E:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.exe
+E:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.xml
+E:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.pdb
+F:\Banglore\MEMOR2852013\Eastern\bin\Debug\Eastern.exe
+F:\Banglore\MEMOR2852013\Eastern\bin\Debug\Eastern.pdb
+F:\Banglore\MEMOR2852013\Eastern\bin\Debug\Eastern.xml
+F:\Banglore\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlClient.dll
+F:\Banglore\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+F:\Banglore\MEMOR2852013\Eastern\obj\Debug\ResolveAssemblyReference.cache
+F:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.Form3.resources
+F:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+F:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+F:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+F:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.Form1.resources
+F:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexport.resources
+F:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexprejection.resources
+F:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frminv.resources
+F:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmain.resources
+F:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmdispatch.resources
+F:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmInvoice.resources
+F:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmreceipt.resources
+F:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrescaning.resources
+F:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrework.resources
+F:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+F:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.Resources.resources
+F:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+F:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.exe
+F:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.xml
+F:\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.pdb
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\obj\Debug\ResolveAssemblyReference.cache
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.Form3.resources
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.Form1.resources
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexport.resources
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexprejection.resources
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frminv.resources
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmain.resources
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmdispatch.resources
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmInvoice.resources
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmreceipt.resources
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrescaning.resources
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrework.resources
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.Resources.resources
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.exe
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.xml
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\obj\Debug\Eastern.pdb
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\bin\Debug\Eastern.exe
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\bin\Debug\Eastern.pdb
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\bin\Debug\Eastern.xml
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlClient.dll
+F:\Windows Applications\Scaner Banglore eastern\Banglore\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\bin\Debug\Eastern.exe
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\bin\Debug\Eastern.pdb
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\bin\Debug\Eastern.xml
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlClient.dll
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\obj\Debug\ResolveAssemblyReference.cache
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\obj\Debug\Eastern.Form3.resources
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\obj\Debug\Eastern.Form1.resources
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexport.resources
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexprejection.resources
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\obj\Debug\Eastern.frminv.resources
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmain.resources
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\obj\Debug\Eastern.frmdispatch.resources
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\obj\Debug\Eastern.frmInvoice.resources
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\obj\Debug\Eastern.frmreceipt.resources
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrescaning.resources
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrework.resources
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\obj\Debug\Eastern.Resources.resources
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\obj\Debug\Eastern.exe
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\obj\Debug\Eastern.xml
+D:\Rony\Backup\Current Eastern Source Code\MEMOR2852013\Eastern\obj\Debug\Eastern.pdb
+D:\Eastern\MEMOR2852013\Eastern\bin\Debug\Eastern.exe
+D:\Eastern\MEMOR2852013\Eastern\bin\Debug\Eastern.pdb
+D:\Eastern\MEMOR2852013\Eastern\bin\Debug\Eastern.xml
+D:\Eastern\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlClient.dll
+D:\Eastern\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\ResolveAssemblyReference.cache
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.Form3.resources
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.Form1.resources
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexport.resources
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexprejection.resources
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frminv.resources
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmain.resources
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmdispatch.resources
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmInvoice.resources
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmreceipt.resources
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrescaning.resources
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrework.resources
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.Resources.resources
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.exe
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.xml
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.pdb
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\bin\Debug\Eastern.exe
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\bin\Debug\Eastern.pdb
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\bin\Debug\Eastern.xml
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlClient.dll
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\ResolveAssemblyReference.cache
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.Form3.resources
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.Form1.resources
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexport.resources
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexprejection.resources
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frminv.resources
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmain.resources
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmdispatch.resources
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmInvoice.resources
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmreceipt.resources
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrescaning.resources
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrework.resources
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.Resources.resources
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.exe
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.xml
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.pdb
+\\192.168.1.16\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmultiplerepack.resources
+F:\Setup\Eastern\MEMOR2852013\Eastern\bin\Debug\Eastern.exe
+F:\Setup\Eastern\MEMOR2852013\Eastern\bin\Debug\Eastern.pdb
+F:\Setup\Eastern\MEMOR2852013\Eastern\bin\Debug\Eastern.xml
+F:\Setup\Eastern\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlClient.dll
+F:\Setup\Eastern\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\ResolveAssemblyReference.cache
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.Form3.resources
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmultiplerepack.resources
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.Form1.resources
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexport.resources
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexprejection.resources
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frminv.resources
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmain.resources
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmdispatch.resources
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmInvoice.resources
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmreceipt.resources
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrescaning.resources
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrework.resources
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.Resources.resources
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.exe
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.xml
+F:\Setup\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.pdb
+D:\Eastern\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmultiplerepack.resources
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\bin\Debug\Eastern.exe
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\bin\Debug\Eastern.pdb
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\bin\Debug\Eastern.xml
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlClient.dll
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\ResolveAssemblyReference.cache
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.Form3.resources
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmultiplerepack.resources
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.Form1.resources
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexport.resources
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexprejection.resources
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.frminv.resources
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmain.resources
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.frmdispatch.resources
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.frmInvoice.resources
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.frmreceipt.resources
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrescaning.resources
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrework.resources
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.Resources.resources
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.exe
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.xml
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.pdb
+E:\Rony\Eastern After Bnglre Visit\MEMOR2852013\Eastern\obj\Debug\Eastern.frmtempstock.resources
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\bin\Debug\Eastern.exe
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\bin\Debug\Eastern.pdb
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\bin\Debug\Eastern.xml
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlClient.dll
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\ResolveAssemblyReference.cache
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.Form3.resources
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmultiplerepack.resources
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.Form1.resources
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexport.resources
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexprejection.resources
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frminv.resources
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmain.resources
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmdispatch.resources
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmInvoice.resources
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmreceipt.resources
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrescaning.resources
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrework.resources
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmtempstock.resources
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.Resources.resources
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.exe
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.xml
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.pdb
+E:\Rony\Eastern Before Baglore\MEMOR2852013\Eastern\obj\Debug\Eastern.frmtempread.resources
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\bin\Debug\Eastern.exe
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\bin\Debug\Eastern.pdb
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\bin\Debug\Eastern.xml
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlClient.dll
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\ResolveAssemblyReference.cache
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.Form3.resources
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmultiplerepack.resources
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.Form1.resources
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexport.resources
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexprejection.resources
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frminv.resources
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmain.resources
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmdispatch.resources
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmInvoice.resources
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmreceipt.resources
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrescaning.resources
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrework.resources
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmtempread.resources
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmtempstock.resources
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.Resources.resources
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.exe
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.xml
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.pdb
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\bin\Debug\Eastern.exe
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\bin\Debug\Eastern.pdb
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\bin\Debug\Eastern.xml
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.Form3.resources
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmultiplerepack.resources
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.Form1.resources
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexport.resources
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexprejection.resources
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frminv.resources
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmain.resources
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmdispatch.resources
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmInvoice.resources
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmreceipt.resources
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrescaning.resources
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrework.resources
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmtempread.resources
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmtempstock.resources
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.Resources.resources
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.exe
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.xml
+C:\Users\Elcot\Desktop\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.pdb
+E:\Rony\Eastern Curreent\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockretcom.resources
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\bin\Debug\Eastern.exe
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\bin\Debug\Eastern.pdb
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\bin\Debug\Eastern.xml
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlClient.dll
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\ResolveAssemblyReference.cache
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.Form3.resources
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmultiplerepack.resources
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.Form1.resources
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexport.resources
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexprejection.resources
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frminv.resources
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmain.resources
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmdispatch.resources
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmInvoice.resources
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmreceipt.resources
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrescaning.resources
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrework.resources
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockretcom.resources
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmtempread.resources
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmtempstock.resources
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.Resources.resources
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.exe
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.xml
+E:\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.pdb
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\bin\Debug\Eastern.exe
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\bin\Debug\Eastern.pdb
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\bin\Debug\Eastern.xml
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlClient.dll
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\ResolveAssemblyReference.cache
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.Form3.resources
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmultiplerepack.resources
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.Form1.resources
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexport.resources
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexprejection.resources
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frminv.resources
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmain.resources
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmdispatch.resources
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmInvoice.resources
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmreceipt.resources
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrescaning.resources
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrework.resources
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockretcom.resources
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmtempread.resources
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.frmtempstock.resources
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.Resources.resources
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.exe
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.xml
+E:\E Drive Bak\Rony\Eastern Condiments Latest\MEMOR2852013\Eastern\obj\Debug\Eastern.pdb
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\bin\Debug\Eastern.exe
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\bin\Debug\Eastern.pdb
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\bin\Debug\Eastern.xml
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlClient.dll
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\bin\Debug\System.Data.SqlServerCe.dll
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.Form3.resources
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.frmItemStorage.resources
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmultiplerepack.resources
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.frmPalletScan.resources
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.frmpallettrans.resources
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.Form1.resources
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexport.resources
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.frmexprejection.resources
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.frminv.resources
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.frmmain.resources
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.frmdispatch.resources
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.frmInvoice.resources
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.frmreceipt.resources
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrescaning.resources
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.frmrework.resources
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockretcom.resources
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.frmstockreturn.resources
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.frmtempread.resources
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.frmtempstock.resources
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.Resources.resources
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.vbproj.GenerateResource.Cache
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.exe
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.xml
+E:\Projects\Eastern Scanner\MEMOR2852013\Eastern\obj\Debug\Eastern.pdb

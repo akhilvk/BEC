@@ -1,0 +1,7 @@
+C:\Users\VIJITH\Documents\BEC\BEC\DAL\bin\Release\DAL.dll
+C:\Users\VIJITH\Documents\BEC\BEC\DAL\bin\Release\DAL.pdb
+C:\Users\VIJITH\Documents\BEC\BEC\DAL\bin\Release\BEL.dll
+C:\Users\VIJITH\Documents\BEC\BEC\DAL\bin\Release\BEL.pdb
+C:\Users\VIJITH\Documents\BEC\BEC\DAL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\VIJITH\Documents\BEC\BEC\DAL\obj\Release\DAL.dll
+C:\Users\VIJITH\Documents\BEC\BEC\DAL\obj\Release\DAL.pdb
